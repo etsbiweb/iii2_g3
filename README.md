@@ -1,7 +1,7 @@
-# Hotel Management System
+# Online prodaja kebaba – narudžbe
 
 ## 🎯 Cilj projekta
-Razviti sistem za upravljanje rezervacijama, sobama i gostima u hotelu.
+Izraditi sistem za prikaz kebaba i online naručivanje hrane putem web aplikacije.
 
 ## 🛠️ Tehnologije
 - HTML, CSS
@@ -9,14 +9,14 @@ Razviti sistem za upravljanje rezervacijama, sobama i gostima u hotelu.
 - MySQL
 
 ## ✅ Funkcionalnosti koje učenici trebaju implementirati
-1. Prikaz slobodnih i zauzetih soba
-2. Rezervacija soba (datum dolaska i odlaska)
-3. Evidencija gostiju
-4. Administracija soba i cijena
-5. Pregled svih rezervacija
+1. Prikaz jelovnika (naziv, opis, cijena, slika)
+2. Dodavanje proizvoda u korpu
+3. Kreiranje i pregled narudžbi
+4. Forma za unos adrese i kontakt podataka
+5. Admin panel za uređivanje ponude i pregled narudžbi
 
 ## 💻 Uloge
-- **Gost**: rezervacija i unos podataka
-- **Recepcioner/Admin**: upravljanje sobama i pregled rezervacija
+- **Kupac**: pregled ponude, naručivanje hrane
+- **Admin**: upravljanje jelovnikom i narudžbama
 
 ## 😉 Upustvo za github: https://github.com/zinaid/ArcosixGitTutorial/blob/main/tutorial.md
