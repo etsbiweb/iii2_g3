@@ -20,7 +20,3 @@ Razviti sistem za upravljanje rezervacijama, sobama i gostima u hotelu.
 - **Recepcioner/Admin**: upravljanje sobama i pregled rezervacija
 
 ## 😉 Upustvo za github: https://github.com/zinaid/ArcosixGitTutorial/blob/main/tutorial.md
-
-- ## 🔗 Korištenje GitHub-a sa VS Code
-1. Napravi repozitorij na GitHub-u
-2. Otvori terminal u VS Code:
